@@ -1,5 +1,7 @@
-base: '/wsx-blog/'
 module.exports = {
+    base: '/blog/',
+    title: "My Blog",
+    description: "This is a blog.",
     themeConfig: {
         description: '我的个人网站',
         logo: '/assets/logo/logo.png',
